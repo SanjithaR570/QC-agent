@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent QC Agent",
+  "description": "An AI-powered agent that generates quality control procedures for new product lines based on product type, material, and handling requirements.",
+  "requestFramePermissions": []
+}
